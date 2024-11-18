@@ -1,5 +1,7 @@
 ## Hi there 👋
+🌱 I’m currently learning golang and javascript
 
+🔭 I’m currently working on bytedance
 <!--
 **whitexwc/whitexwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
